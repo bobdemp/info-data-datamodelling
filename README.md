@@ -1,7 +1,6 @@
 # info-data-datamodelling
 info-data-datamodelling
 
-
 ****************
 Data Vault
 ****************
@@ -17,6 +16,10 @@ Data Modelling
 Dimensional Data Modelling: Simplified with Step-by-Step Explanation
 
 https://hevodata.com/learn/dimensional-data-modelling/
+
+Types of Dimension Tables in a Data Warehouse
+
+https://abhimarichi.medium.com/types-of-dimension-tables-in-a-data-warehouse-bf6b48daf166
 
 SCD - Slowly Changing Dimensions
 
