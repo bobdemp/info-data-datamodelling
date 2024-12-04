@@ -18,3 +18,6 @@ Dimensional Data Modelling: Simplified with Step-by-Step Explanation
 
 https://hevodata.com/learn/dimensional-data-modelling/
 
+SCD - Slowly Changing Dimensions
+
+https://hevodata.com/learn/slowly-changing-dimensions/
